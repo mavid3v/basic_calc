@@ -29,8 +29,6 @@ calculator/
 ├── index.html           # Calculator interface
 ├── style.css            # Styling for layout, buttons, theme
 ├── script.js            # Core logic using OOP (Calculator class)
-├── assets/
-│   └── imgs/            # Optional theme icons (moon.png, sun.png)
 ```
 
 ---
